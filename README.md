@@ -6,7 +6,7 @@ MATERIAL OF THIS REPOSITORY :point_down:
 
 - Power Point Presentation.
 - Jupyter Notebook used for the session.
-- Record of the talk.
+- Link to the video: https://youtu.be/1y_VROGyF68
 
 :point_right: **Ensemble Methods** use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
 

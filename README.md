@@ -4,13 +4,11 @@ In this repository you will find all the materials for the topic: _How to apply 
 
 MATERIAL OF THIS REPOSITORY :point_down:
 
-- The Power Point Presentation.
-- The Jupyter Notebook used for the session.
-- The record of the talk.
+- Power Point Presentation.
+- Jupyter Notebook used for the session.
+- Record of the talk.
 
 :point_right: **Ensemble Methods** use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
-
-:paperclip:
 
 :globe_with_meridians: Link to their website: https://femtechconf.com/
 
